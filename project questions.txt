@@ -1,0 +1,39 @@
+1.List all employees and their department names.
+
+2.Total number of employees in each department
+
+3.List all products with their inventory quantities.
+
+4.Show top 5 highest paid employees.
+
+5.Get customer orders with product names.
+
+6.Show all procurement records with vendor and product names.
+
+7.Which products are low in stock (<20 units).
+
+8.Total cost of all procurement orders.
+
+9.Total salary paid to employees
+
+10.Show all transactions without employee ID (like Procurement, Sales Rev).
+
+11.Total revenue from sales (assuming sale price is same as product price).
+
+12.Find the best-selling product.
+
+13.List employees and their project names
+
+14.Find employees working in more than one project.
+
+15.Count of present and absent per employee.
+
+16.Employees with most absences.
+
+17.Average salary by department
+
+18.Total quantity sold by city
+
+19.List employees joined after 2021
+
+20.Products not yet sold
