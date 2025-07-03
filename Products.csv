@@ -1,0 +1,11 @@
+prod_id,prod_name,category,unit_price
+401,Laptop,Electronics,45000
+402,Mouse,Accessories,500
+403,Keyboard,Accessories,700
+404,Monitor,Electronics,15000
+405,Printer,Electronics,12000
+406,USB Cable,Accessories,200
+407,Hard Disk,Storage,4000
+408,SSD,Storage,6500
+409,Pen Drive,Storage,800
+410,Web Camera,Accessories,1500

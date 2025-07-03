@@ -1,0 +1,11 @@
+cust_id,cust_name,email,city
+301,Customer_1,cust1@mail.com,Delhi
+302,Customer_2,cust2@mail.com,Mumbai
+303,Customer_3,cust3@mail.com,Hyderabad
+304,Customer_4,cust4@mail.com,Pune
+305,Customer_5,cust5@mail.com,Kolkata
+306,Customer_6,cust6@mail.com,Bangalore
+307,Customer_7,cust7@mail.com,Chennai
+308,Customer_8,cust8@mail.com,Jaipur
+309,Customer_9,cust9@mail.com,Kochi
+310,Customer_10,cust10@mail.com,Lucknow

@@ -1,0 +1,11 @@
+inv_id,prod_id,quantity,location
+501,401,20,Delhi
+502,402,100,Mumbai
+503,403,70,Hyderabad
+504,404,15,Pune
+505,405,10,Bangalore
+506,406,200,Kolkata
+507,407,50,Chennai
+508,408,30,Jaipur
+509,409,80,Kochi
+510,410,60,Lucknow
